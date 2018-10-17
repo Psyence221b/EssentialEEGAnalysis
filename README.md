@@ -9,8 +9,13 @@ The workshop is held in during spring semester, 2018.
 If you need sample EEG datasets for practicum of preprocessing and ERP, ERSP analysis,  
 please download sample EEG files in following adresses.  
 
-~~
-~~
+sample EEG datasets for preprocessing(Chapter9)  
+<https://drive.google.com/open?id=1U-xUvqGUu4kzXAYRtoxdeNURt9RCWRKt>  
+sample EEG datasets for ERP & ERSP(Chapter10)  
+<https://drive.google.com/open?id=1im7K61Nfr5hHgdSFcTCiDHUVy60rcS40>  
+  
+  All other materials you can find in this repository, sorry for your inconvenience. This is because of Github file size limitation.
+    
 
 
 ### Contents
