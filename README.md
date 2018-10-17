@@ -15,6 +15,8 @@ sample EEG datasets for ERP & ERSP(Chapter10)
 <https://drive.google.com/open?id=1im7K61Nfr5hHgdSFcTCiDHUVy60rcS40>  
 Source localization illustration example with FieldTrip(Chapter13)  
 <https://drive.google.com/open?id=1_lT-3NlhgIdw9JYNq3dj7c0_SY_FcHeF>  
+Prism 7 and BrainNet Viewer(Chapter16)  
+<https://drive.google.com/open?id=1obhI-nV1lYDFLhM05i6dIxyi-C4V0ND1>
   
   All other materials you can find in this repository, sorry for your inconvenience. This is because of Github file size limitation.
     
