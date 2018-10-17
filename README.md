@@ -20,7 +20,9 @@ Prism 7 and BrainNet Viewer(Chapter16)
   
   All other materials you can find in this repository, sorry for your inconvenience. This is because of Github file size limitation.
     
-
+    If you need further helpful advice for AMICA, EEGLAB toolbox, check this page.  
+    https://sccn.ucsd.edu/wiki/Makoto's_preprocessing_pipeline
+      
 
 ### Contents
 
