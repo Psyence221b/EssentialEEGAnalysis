@@ -1,0 +1,5 @@
+Sorry for your inconvenience. The policy of Github limits file size up to 25mb.
+
+please download EEG sample dataset in
+
+https://drive.google.com/open?id=1U-xUvqGUu4kzXAYRtoxdeNURt9RCWRKt
