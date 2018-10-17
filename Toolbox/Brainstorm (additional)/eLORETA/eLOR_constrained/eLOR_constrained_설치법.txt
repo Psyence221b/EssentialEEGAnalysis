@@ -1,0 +1,3 @@
+out_fieldtrip_headmodel.m 파일은 brainstorm3 \ toolbox \ io 폴더 안의 파일과 교체해 주면 되고,
+
+process_ft_sourceanalysis.m 파일은 brainstorm3 \ toolbox \ process \ functions 폴더 안의 파일과 교체해 주면 된다.
