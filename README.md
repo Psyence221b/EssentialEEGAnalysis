@@ -7,7 +7,7 @@ The main goal of the workshop is reaching the level that analyze one's own EEG d
 The workshop is held in during spring semester, 2018.  
 
 If you need sample EEG datasets for practicum of preprocessing and ERP, ERSP analysis,  
-please download sample EEG files in follow adress.  
+please download sample EEG files in following adresses.  
 
 ~~
 ~~
